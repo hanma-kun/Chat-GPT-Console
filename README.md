@@ -8,6 +8,7 @@ Before running the application, make sure you have the following prerequisites:
 
 - Go programming language (version 1.16 or later) installed on your machine.
 - Access to the OpenAI GPT-3.5 API.
+- GPT-3 API Key.
 
 ## Installation
 
