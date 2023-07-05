@@ -53,7 +53,7 @@ func main() {
 			quit := false
 
 			for !quit {
-				fmt.Print("Welcome to BullyBLOCK. Please enter your concern ('quit' to end): ")
+				fmt.Print("Welcome to GPT-terminal. Feel free to ask anything ('quit' to end): ")
 				if !scanner.Scan() {
 					break
 				}
